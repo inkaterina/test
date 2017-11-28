@@ -1,0 +1,26 @@
+stress-ng: info:  [1179] dispatching hogs: 4 af-alg, 4 bsearch, 4 context, 4 cpu, 4 cpu-online, 4 crypt, 4 fp-error, 4 getrandom, 4 heapsort, 4 hsearch, 4 longjmp, 4 lsearch, 4 matrix, 4 mergesort, 4 numa, 4 qsort, 4 rdrand, 4 str, 4 stream, 4 tsc, 4 tsearch, 4 vecmath, 4 wcs, 4 zlib
+stress-ng: info:  [1179] successful run completed in 231.30s (3 mins, 51.30 secs)
+stress-ng: info:  [1179] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [1179]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [1179] af-alg         6560096     10.05      0.26     19.71    652652.14    328497.55
+stress-ng: info:  [1179] bsearch           7560     10.00     19.99      0.00       755.81       378.19
+stress-ng: info:  [1179] context          94013     10.00     10.58      9.33      9401.21      4721.90
+stress-ng: info:  [1179] cpu               4548     10.04     20.08      0.00       453.02       226.49
+stress-ng: info:  [1179] cpu-online         169     10.11      0.26      0.00        16.72       650.00
+stress-ng: info:  [1179] crypt             3303     10.00     19.40      0.00       330.15       170.26
+stress-ng: info:  [1179] getrandom        16548     10.01      0.00     20.09      1653.08       823.69
+stress-ng: info:  [1179] heapsort            77     10.00     19.98      0.00         7.70         3.85
+stress-ng: info:  [1179] hsearch          66913     10.00     19.98      0.00      6691.16      3349.00
+stress-ng: info:  [1179] longjmp        2237354     10.00     20.00      0.00    223633.24    111867.70
+stress-ng: info:  [1179] lsearch            131     10.00     19.99      0.00        13.10         6.55
+stress-ng: info:  [1179] matrix           76172     10.00     19.98      0.00      7617.20      3812.41
+stress-ng: info:  [1179] mergesort         4103     10.01     19.97      0.00       410.09       205.46
+stress-ng: info:  [1179] qsort              175     10.00     19.98      0.00        17.50         8.76
+stress-ng: info:  [1179] rdrand         5796800     10.00     19.97      0.00    579673.02    290275.41
+stress-ng: info:  [1179] str             798695     10.00     19.97      0.00     79856.50     39994.74
+stress-ng: info:  [1179] stream             411     10.04     19.81      0.24        40.92        20.50
+stress-ng: info:  [1179] tsc           16623758     10.00     19.99      0.00   1662127.18    831603.70
+stress-ng: info:  [1179] tsearch            278     10.02     20.03      0.00        27.74        13.88
+stress-ng: info:  [1179] vecmath         593853     10.00     19.95      0.00     59385.22     29767.07
+stress-ng: info:  [1179] wcs             230230     10.00     19.99      0.00     23022.86     11517.26
+stress-ng: info:  [1179] zlib               261     10.30     20.81      0.01        25.34        12.54
