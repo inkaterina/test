@@ -1,0 +1,4 @@
+cpu MHz		: 2194.291
+bogomips	: 4389.83
+cpu MHz		: 2194.291
+bogomips	: 4389.83

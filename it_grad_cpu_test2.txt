@@ -1,0 +1,27 @@
+stress-ng: info:  [1959] dispatching hogs: 4 af-alg, 4 atomic, 4 bsearch, 4 context, 4 cpu, 4 cpu-online, 4 crypt, 4 fp-error, 4 getrandom, 4 heapsort, 4 hsearch, 4 longjmp, 4 lsearch, 4 matrix, 4 mergesort, 4 numa, 4 opcode, 4 qsort, 4 str, 4 stream, 4 tsc, 4 tsearch, 4 vecmath, 4 wcs, 4 zlib
+stress-ng: info:  [1959] successful run completed in 242.41s (4 mins, 2.41 secs)
+stress-ng: info:  [1959] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [1959]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [1959] af-alg           221600     10.03      0.61     16.14     22091.03     13229.85
+stress-ng: info:  [1959] atomic          1763117     10.00     19.98      0.00    176310.40     88244.09
+stress-ng: info:  [1959] bsearch            4916     10.00     20.01      0.00       491.50       245.68
+stress-ng: info:  [1959] context           86027     10.00     12.77      7.17      8601.75      4314.29
+stress-ng: info:  [1959] cpu                3522     10.20     20.27      0.00       345.44       173.75
+stress-ng: info:  [1959] cpu-online          138     10.17      0.00      0.17        13.57       811.76
+stress-ng: info:  [1959] crypt              2756     10.01     19.41      0.02       275.40       141.84
+stress-ng: info:  [1959] getrandom        218191     10.00      0.00     19.97     21817.03     10925.94
+stress-ng: info:  [1959] heapsort             60     10.00     19.97      0.00         6.00         3.00
+stress-ng: info:  [1959] hsearch           52087     10.00     20.22      0.00      5208.23      2576.01
+stress-ng: info:  [1959] longjmp         1545942     10.00     19.97      0.00    154531.56     77413.22
+stress-ng: info:  [1959] lsearch             120     10.00     19.95      0.00        12.00         6.02
+stress-ng: info:  [1959] matrix            56612     10.00     19.96      0.00      5661.00      2836.27
+stress-ng: info:  [1959] mergesort          3512     10.00     19.97      0.00       351.19       175.86
+stress-ng: info:  [1959] opcode            32667     10.00      2.95      4.44      3266.56      4420.43
+stress-ng: info:  [1959] qsort               148     10.00     19.97      0.00        14.80         7.41
+stress-ng: info:  [1959] str              604913     10.05     20.07      0.00     60185.89     30140.16
+stress-ng: info:  [1959] stream              224     10.07     19.54      0.59        22.24        11.13
+stress-ng: info:  [1959] tsc            12576909     10.00     19.97      0.00   1257657.63    629790.14
+stress-ng: info:  [1959] tsearch             233     10.30     20.57      0.01        22.62        11.32
+stress-ng: info:  [1959] vecmath           42391     10.00     19.97      0.00      4239.02      2122.73
+stress-ng: info:  [1959] wcs              200688     10.07     20.10      0.00     19932.52      9984.48
+stress-ng: info:  [1959] zlib                231     10.31     21.11      0.01        22.40        10.94
