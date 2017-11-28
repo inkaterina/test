@@ -1,0 +1,26 @@
+stress-ng: info:  [1975] dispatching hogs: 4 af-alg, 4 bsearch, 4 context, 4 cpu, 4 cpu-online, 4 crypt, 4 fp-error, 4 getrandom, 4 heapsort, 4 hsearch, 4 longjmp, 4 lsearch, 4 matrix, 4 mergesort, 4 numa, 4 qsort, 4 rdrand, 4 str, 4 stream, 4 tsc, 4 tsearch, 4 vecmath, 4 wcs, 4 zlib
+stress-ng: info:  [1975] successful run completed in 231.13s (3 mins, 51.13 secs)
+stress-ng: info:  [1975] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [1975]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [1975] af-alg         5210976     10.05      0.23     19.64    518363.52    262253.45
+stress-ng: info:  [1975] bsearch           7067     10.00     19.97      0.00       706.52       353.88
+stress-ng: info:  [1975] context         116686     10.00     12.68      7.27     11668.45      5848.92
+stress-ng: info:  [1975] cpu               3843     10.01     19.84      0.00       383.90       193.70
+stress-ng: info:  [1975] cpu-online         170     10.07      0.12      0.27        16.88       435.90
+stress-ng: info:  [1975] crypt             2597     10.01     19.04      0.00       259.50       136.40
+stress-ng: info:  [1975] getrandom        17980     10.02      0.00     20.03      1795.26       897.65
+stress-ng: info:  [1975] heapsort            68     10.00     19.96      0.00         6.80         3.41
+stress-ng: info:  [1975] hsearch          61967     10.00     19.97      0.00      6196.52      3103.00
+stress-ng: info:  [1975] longjmp        1823149     10.00     19.96      0.00    182314.22     91340.13
+stress-ng: info:  [1975] lsearch            114     10.00     19.97      0.00        11.40         5.71
+stress-ng: info:  [1975] matrix           66902     10.00     19.97      0.00      6690.18      3350.13
+stress-ng: info:  [1975] mergesort         3353     10.00     19.96      0.00       335.25       167.99
+stress-ng: info:  [1975] qsort              130     10.00     19.95      0.00        13.00         6.52
+stress-ng: info:  [1975] rdrand         6271447     10.00     19.96      0.00    627088.62    314200.75
+stress-ng: info:  [1975] str             705608     10.00     19.96      0.00     70554.24     35351.10
+stress-ng: info:  [1975] stream             633     10.03     19.84      0.17        63.14        31.63
+stress-ng: info:  [1975] tsc           15124520     10.00     19.97      0.00   1512120.71    757362.04
+stress-ng: info:  [1975] tsearch            236     10.05     20.13      0.00        23.48        11.72
+stress-ng: info:  [1975] vecmath         564986     10.00     19.94      0.00     56498.53     28334.30
+stress-ng: info:  [1975] wcs             194184     10.00     19.97      0.00     19415.78      9723.79
+stress-ng: info:  [1975] zlib               292     10.41     20.76      0.00        28.04        14.07
