@@ -1,0 +1,11 @@
+stress-ng: info: [2309] dispatching hogs:
+stress-ng: info: [2309] unsuccessful run completed in 80.70s
+stress-ng: info: [2309] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [2309]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [2309] bsearch           3461     10.01     10.00      0.00       345.85       346.10
+stress-ng: info: [2309] cpu               1988     10.03     10.00      0.00       198.25       198.80
+stress-ng: info: [2309] hsearch          34391     10.00      9.98      0.00      3438.98      3445.99
+stress-ng: info: [2309] lsearch             76     10.03     10.00      0.00         7.58         7.60
+stress-ng: info: [2309] qsort               72     10.09     10.10      0.00         7.14         7.13
+stress-ng: info: [2309] tsearch            144     10.13     10.10      0.00        14.21        14.26
+stress-ng: info: [2309] vecmath         313919     10.00     10.00      0.00     31383.45     31391.90
