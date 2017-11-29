@@ -1,0 +1,18 @@
+stress-ng: info: [1138] dispatching hogs:
+stress-ng: info: [1138] successful run completed in 151.32s
+stress-ng: info: [1138] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [1138]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [1138] brk             720979     10.43      0.13      1.17     69138.62    554599.23
+stress-ng: info: [1138] bsearch           3251     10.00      9.40      0.00       324.99       345.85
+stress-ng: info: [1138] hsearch          34535     10.00     10.00      0.00      3453.25      3453.50
+stress-ng: info: [1138] lsearch             76     10.08     10.07      0.00         7.54         7.55
+stress-ng: info: [1138] malloc          280542     10.10      0.33      0.53     27765.91    326211.63
+stress-ng: info: [1138] memcpy           15053     10.00      9.80      0.00      1505.08      1536.02
+stress-ng: info: [1138] mincore         454386     10.00      1.05      8.93     45426.48     45529.66
+stress-ng: info: [1138] null         111492349     10.00      1.88      8.08  11149204.53  11194010.94
+stress-ng: info: [1138] pipe           4178945     10.00      3.46      6.47    417884.33    420840.38
+stress-ng: info: [1138] qsort               72     10.09     10.13      0.00         7.14         7.11
+stress-ng: info: [1138] tsearch            140     10.08      9.87      0.01        13.90        14.17
+stress-ng: info: [1138] vm              295040     10.00      9.25      0.72     29492.57     29592.78
+stress-ng: info: [1138] vm-rw             1253     10.00      0.02      9.92       125.24       126.06
+stress-ng: info: [1138] zero          32384174     10.00      0.60      9.35   3238101.53   3254690.85
