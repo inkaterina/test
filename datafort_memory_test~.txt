@@ -1,0 +1,5 @@
+stress-ng: info:  [1652] dispatching hogs: 4 bsearch, 4 context, 4 heapsort, 4 hsearch, 4 lockbus, 4 lsearch, 4 malloc, 4 matrix, 4 membarrier, 4 memcpy, 4 memfd, 4 mergesort, 4 mincore, 4 null, 4 numa, 4 oom-pipe, 4 pipe, 4 qsort, 4 remap-file-pages, 4 stack, 4 str, 4 stream, 4 tsearch, 4 vm, 4 vm-rw, 4 wcs, 4 zero, 4 zlib
+stress-ng: info:  [1652] successful run completed in 4.16s
+stress-ng: info:  [1652] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [1652]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [1652] bsearch           6302      4.15     16.44      0.00      1518.10       383.33
