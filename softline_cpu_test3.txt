@@ -1,0 +1,11 @@
+stress-ng: info: [1965] dispatching hogs:
+stress-ng: info: [1965] unsuccessful run completed in 80.52s
+stress-ng: info: [1965] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [1965]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [1965] bsearch          14111     10.00     39.92      0.04      1411.01       353.13
+stress-ng: info: [1965] cpu               9149     10.06     40.12      0.04       909.68       227.81
+stress-ng: info: [1965] hsearch         140171     10.00     39.94      0.04     14014.76      3506.03
+stress-ng: info: [1965] lsearch            310     10.03     40.07      0.04        30.90         7.73
+stress-ng: info: [1965] qsort              329     10.04     40.04      0.04        32.76         8.21
+stress-ng: info: [1965] tsearch            527     10.02     40.00      0.05        52.59        13.16
+stress-ng: info: [1965] vecmath        1336976     10.00     39.94      0.02    133698.54     33457.86
