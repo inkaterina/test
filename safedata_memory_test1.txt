@@ -1,0 +1,29 @@
+stress-ng: info:  [3892] dispatching hogs: 4 bsearch, 4 context, 4 heapsort, 4 hsearch, 4 lockbus, 4 lsearch, 4 malloc, 4 matrix, 4 membarrier, 4 memcpy, 4 memfd, 4 mergesort, 4 mincore, 4 null, 4 numa, 4 oom-pipe, 4 pipe, 4 qsort, 4 remap-file-pages, 4 stack, 4 str, 4 stream, 4 tsearch, 4 vm, 4 vm-rw, 4 wcs, 4 zero, 4 zlib
+stress-ng: info:  [3892] successful run completed in 272.52s (4 mins, 32.52 secs)
+stress-ng: info:  [3892] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [3892]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [3892] bsearch           6316     10.00     19.87      0.09       631.37       316.43
+stress-ng: info:  [3892] context         109547     10.00     12.53      7.42     10954.37      5491.08
+stress-ng: info:  [3892] heapsort            76     10.00     19.97      0.00         7.60         3.81
+stress-ng: info:  [3892] hsearch          62468     10.00     19.90      0.05      6246.64      3131.23
+stress-ng: info:  [3892] lockbus       30297565     10.00     19.89      0.06   3028793.97   1518674.94
+stress-ng: info:  [3892] lsearch            128     10.00     19.95      0.01        12.80         6.41
+stress-ng: info:  [3892] malloc         8694239     10.25      6.80      2.81    848148.15    904707.49
+stress-ng: info:  [3892] matrix           73562     10.00     19.94      0.00      7356.18      3689.17
+stress-ng: info:  [3892] membarrier        2834     10.02      0.03      0.01       282.95     70850.00
+stress-ng: info:  [3892] memcpy           24542     10.00     19.79      0.00      2453.99      1240.12
+stress-ng: info:  [3892] memfd               31     10.19      0.02     16.66         3.04         1.86
+stress-ng: info:  [3892] mergesort         4126     10.00     19.93      0.02       412.60       206.82
+stress-ng: info:  [3892] mincore         789979     10.00      2.01     17.95     78992.08     39578.11
+stress-ng: info:  [3892] null         211929384     10.06      4.20     15.84  21076212.08  10575318.56
+stress-ng: info:  [3892] pipe           7778329     10.00      3.71     16.03    777803.04    394038.96
+stress-ng: info:  [3892] qsort              167     10.00     19.96      0.00        16.70         8.37
+stress-ng: info:  [3892] remap-file-pages      4498     10.00      0.94     18.97       449.58       225.92
+stress-ng: info:  [3892] str             792234     10.00     19.96      0.00     79238.58     39691.08
+stress-ng: info:  [3892] stream             653     10.04     19.86      0.16        65.02        32.62
+stress-ng: info:  [3892] tsearch            233     10.02     19.99      0.00        23.26        11.66
+stress-ng: info:  [3892] vm             1147984     10.03     16.32      3.69    114443.15     57370.51
+stress-ng: info:  [3892] vm-rw             2256     10.01      0.01     19.81       225.35       113.82
+stress-ng: info:  [3892] wcs             226001     10.00     19.95      0.00     22599.85     11328.37
+stress-ng: info:  [3892] zero          59470362     10.00      1.24     18.72   5946956.23   2979477.05
+stress-ng: info:  [3892] zlib               282     10.26     20.65      0.00        27.49        13.66
