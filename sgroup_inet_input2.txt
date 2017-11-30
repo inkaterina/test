@@ -1,0 +1,20 @@
+Connecting to host iperf.donapex.net, port 5201
+Reverse mode, remote host iperf.donapex.net is sending
+[  4] local 93.158.194.98 port 53118 connected to 46.150.97.9 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec  10.2 MBytes  85.3 Mbits/sec                  
+[  4]   1.00-2.00   sec  3.75 MBytes  31.5 Mbits/sec                  
+[  4]   2.00-3.00   sec  4.53 MBytes  38.0 Mbits/sec                  
+[  4]   3.00-4.00   sec  5.01 MBytes  42.0 Mbits/sec                  
+[  4]   4.00-5.00   sec  5.62 MBytes  47.1 Mbits/sec                  
+[  4]   5.00-6.00   sec  5.96 MBytes  50.0 Mbits/sec                  
+[  4]   6.00-7.00   sec  6.49 MBytes  54.4 Mbits/sec                  
+[  4]   7.00-8.00   sec  7.13 MBytes  59.8 Mbits/sec                  
+[  4]   8.00-9.00   sec  8.10 MBytes  68.0 Mbits/sec                  
+[  4]   9.00-10.00  sec  10.6 MBytes  89.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec  69.6 MBytes  58.4 Mbits/sec  681             sender
+[  4]   0.00-10.00  sec  67.6 MBytes  56.7 Mbits/sec                  receiver
+
+iperf Done.
